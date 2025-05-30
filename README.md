@@ -4,9 +4,9 @@ A simple Flask web app deployed to **Azure App Service** that displays a new ins
 
 ## 🚀 Live Demo
 
-👉 [View Live App](noahg-quote-app-b0d9bdd7fuhvg4gq.centralus-01.azurewebsites.net)
+👉 [View Live App](https://noahg-quote-app-b0d9bdd7fuhvg4gq.centralus-01.azurewebsites.net/)
 
-> Replace the link above with your actual Azure app URL.
+
 
 ---
 
